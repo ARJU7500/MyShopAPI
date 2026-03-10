@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\full stack Application core\u002Bangular\u002Bsql\\API\\MyShopAPI\\MyshopApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCFAE7E-5D00-40B6-9FB0-A19571E5B437}|MyshopApi.csproj|d:\\full stack application core\u002Bangular\u002Bsql\\api\\myshopapi\\myshopapi\\controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BCFAE7E-5D00-40B6-9FB0-A19571E5B437}|MyshopApi.csproj|solutionrelative:controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCFAE7E-5D00-40B6-9FB0-A19571E5B437}|MyshopApi.csproj|d:\\full stack application core\u002Bangular\u002Bsql\\api\\myshopapi\\myshopapi\\models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BCFAE7E-5D00-40B6-9FB0-A19571E5B437}|MyshopApi.csproj|solutionrelative:models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCFAE7E-5D00-40B6-9FB0-A19571E5B437}|MyshopApi.csproj|d:\\full stack application core\u002Bangular\u002Bsql\\api\\myshopapi\\myshopapi\\models\\inventorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BCFAE7E-5D00-40B6-9FB0-A19571E5B437}|MyshopApi.csproj|solutionrelative:models\\inventorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCFAE7E-5D00-40B6-9FB0-A19571E5B437}|MyshopApi.csproj|d:\\full stack application core\u002Bangular\u002Bsql\\api\\myshopapi\\myshopapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BCFAE7E-5D00-40B6-9FB0-A19571E5B437}|MyshopApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "D:\\full stack Application core\u002Bangular\u002Bsql\\API\\MyShopAPI\\MyshopApi\\Models\\Inventory.cs",
+              "RelativeDocumentMoniker": "Models\\Inventory.cs",
+              "ToolTip": "D:\\full stack Application core\u002Bangular\u002Bsql\\API\\MyShopAPI\\MyshopApi\\Models\\Inventory.cs",
+              "RelativeToolTip": "Models\\Inventory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T15:20:04.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InventoryDto.cs",
+              "DocumentMoniker": "D:\\full stack Application core\u002Bangular\u002Bsql\\API\\MyShopAPI\\MyshopApi\\Models\\InventoryDto.cs",
+              "RelativeDocumentMoniker": "Models\\InventoryDto.cs",
+              "ToolTip": "D:\\full stack Application core\u002Bangular\u002Bsql\\API\\MyShopAPI\\MyshopApi\\Models\\InventoryDto.cs",
+              "RelativeToolTip": "Models\\InventoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T15:51:36.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\full stack Application core\u002Bangular\u002Bsql\\API\\MyShopAPI\\MyshopApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\full stack Application core\u002Bangular\u002Bsql\\API\\MyShopAPI\\MyshopApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T14:11:52.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InventoryController.cs",
+              "DocumentMoniker": "D:\\full stack Application core\u002Bangular\u002Bsql\\API\\MyShopAPI\\MyshopApi\\Controllers\\InventoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\InventoryController.cs",
+              "ToolTip": "D:\\full stack Application core\u002Bangular\u002Bsql\\API\\MyShopAPI\\MyshopApi\\Controllers\\InventoryController.cs",
+              "RelativeToolTip": "Controllers\\InventoryController.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAgwGYAAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T13:23:20.639Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
