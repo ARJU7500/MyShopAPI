@@ -17,6 +17,9 @@ namespace MyShopApi.Controllers
         [HttpPost]
         public ActionResult SaveInventryData(Inventory inventoryDto)
         {
+            //string token = Request.Headers["Authorization"];
+            Console.WriteLine(Request.Headers);
+
             //if (inventoryDto.ProductCode == "")
             //    return BadRequest("inventory data is null");
             SqlConnection connection = new SqlConnection
