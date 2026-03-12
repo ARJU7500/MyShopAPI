@@ -1,5 +1,21 @@
 [
   {
+    "ContainingType": "MyshopApi.Controllers.CustomerMasterController",
+    "Method": "SaveCustomerData",
+    "RelativePath": "api/CustomerMaster",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "customerMasterDto",
+        "Type": "MyshopApi.Models.CustomerMaster",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "MyShopApi.Controllers.InventoryController",
     "Method": "SaveInventryData",
     "RelativePath": "api/Inventory",

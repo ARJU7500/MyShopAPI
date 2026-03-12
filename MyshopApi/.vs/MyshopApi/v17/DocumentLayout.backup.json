@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "D:\\full stack Application core\u002Bangular\u002Bsql\\API\\MyShopAPI\\MyshopApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7BCFAE7E-5D00-40B6-9FB0-A19571E5B437}|MyshopApi.csproj|d:\\full stack application core\u002Bangular\u002Bsql\\api\\myshopapi\\myshopapi\\controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BCFAE7E-5D00-40B6-9FB0-A19571E5B437}|MyshopApi.csproj|solutionrelative:controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7BCFAE7E-5D00-40B6-9FB0-A19571E5B437}|MyshopApi.csproj|d:\\full stack application core\u002Bangular\u002Bsql\\api\\myshopapi\\myshopapi\\controllers\\customermastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BCFAE7E-5D00-40B6-9FB0-A19571E5B437}|MyshopApi.csproj|solutionrelative:controllers\\customermastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BCFAE7E-5D00-40B6-9FB0-A19571E5B437}|MyshopApi.csproj|d:\\full stack application core\u002Bangular\u002Bsql\\api\\myshopapi\\myshopapi\\models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BCFAE7E-5D00-40B6-9FB0-A19571E5B437}|MyshopApi.csproj|solutionrelative:models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7BCFAE7E-5D00-40B6-9FB0-A19571E5B437}|MyshopApi.csproj|d:\\full stack application core\u002Bangular\u002Bsql\\api\\myshopapi\\myshopapi\\models\\customermasterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BCFAE7E-5D00-40B6-9FB0-A19571E5B437}|MyshopApi.csproj|solutionrelative:models\\customermasterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BCFAE7E-5D00-40B6-9FB0-A19571E5B437}|MyshopApi.csproj|d:\\full stack application core\u002Bangular\u002Bsql\\api\\myshopapi\\myshopapi\\models\\inventorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BCFAE7E-5D00-40B6-9FB0-A19571E5B437}|MyshopApi.csproj|solutionrelative:models\\inventorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BCFAE7E-5D00-40B6-9FB0-A19571E5B437}|MyshopApi.csproj|d:\\full stack application core\u002Bangular\u002Bsql\\api\\myshopapi\\myshopapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BCFAE7E-5D00-40B6-9FB0-A19571E5B437}|MyshopApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7BCFAE7E-5D00-40B6-9FB0-A19571E5B437}|MyshopApi.csproj|d:\\full stack application core\u002Bangular\u002Bsql\\api\\myshopapi\\myshopapi\\models\\customermaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BCFAE7E-5D00-40B6-9FB0-A19571E5B437}|MyshopApi.csproj|solutionrelative:models\\customermaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,51 +30,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Inventory.cs",
-              "DocumentMoniker": "D:\\full stack Application core\u002Bangular\u002Bsql\\API\\MyShopAPI\\MyshopApi\\Models\\Inventory.cs",
-              "RelativeDocumentMoniker": "Models\\Inventory.cs",
-              "ToolTip": "D:\\full stack Application core\u002Bangular\u002Bsql\\API\\MyShopAPI\\MyshopApi\\Models\\Inventory.cs",
-              "RelativeToolTip": "Models\\Inventory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T15:20:04.326Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "InventoryDto.cs",
-              "DocumentMoniker": "D:\\full stack Application core\u002Bangular\u002Bsql\\API\\MyShopAPI\\MyshopApi\\Models\\InventoryDto.cs",
-              "RelativeDocumentMoniker": "Models\\InventoryDto.cs",
-              "ToolTip": "D:\\full stack Application core\u002Bangular\u002Bsql\\API\\MyShopAPI\\MyshopApi\\Models\\InventoryDto.cs",
-              "RelativeToolTip": "Models\\InventoryDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Title": "CustomerMaster.cs",
+              "DocumentMoniker": "D:\\full stack Application core\u002Bangular\u002Bsql\\API\\MyShopAPI\\MyshopApi\\Models\\CustomerMaster.cs",
+              "RelativeDocumentMoniker": "Models\\CustomerMaster.cs",
+              "ToolTip": "D:\\full stack Application core\u002Bangular\u002Bsql\\API\\MyShopAPI\\MyshopApi\\Models\\CustomerMaster.cs",
+              "RelativeToolTip": "Models\\CustomerMaster.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA5wAgAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T15:51:36.838Z"
+              "WhenOpened": "2026-03-12T18:11:15.786Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\full stack Application core\u002Bangular\u002Bsql\\API\\MyShopAPI\\MyshopApi\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\full stack Application core\u002Bangular\u002Bsql\\API\\MyShopAPI\\MyshopApi\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAjAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "CustomerMasterDto.cs",
+              "DocumentMoniker": "D:\\full stack Application core\u002Bangular\u002Bsql\\API\\MyShopAPI\\MyshopApi\\Models\\CustomerMasterDto.cs",
+              "RelativeDocumentMoniker": "Models\\CustomerMasterDto.cs",
+              "ToolTip": "D:\\full stack Application core\u002Bangular\u002Bsql\\API\\MyShopAPI\\MyshopApi\\Models\\CustomerMasterDto.cs",
+              "RelativeToolTip": "Models\\CustomerMasterDto.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA5wAYAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T14:11:52.219Z"
+              "WhenOpened": "2026-03-12T18:10:51.195Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "InventoryController.cs",
-              "DocumentMoniker": "D:\\full stack Application core\u002Bangular\u002Bsql\\API\\MyShopAPI\\MyshopApi\\Controllers\\InventoryController.cs",
-              "RelativeDocumentMoniker": "Controllers\\InventoryController.cs",
-              "ToolTip": "D:\\full stack Application core\u002Bangular\u002Bsql\\API\\MyShopAPI\\MyshopApi\\Controllers\\InventoryController.cs",
-              "RelativeToolTip": "Controllers\\InventoryController.cs",
-              "ViewState": "AgIAAFYAAAAAAAAAAAAgwG8AAABYAAAAAAAAAA==",
+              "Title": "CustomerMasterController.cs",
+              "DocumentMoniker": "D:\\full stack Application core\u002Bangular\u002Bsql\\API\\MyShopAPI\\MyshopApi\\Controllers\\CustomerMasterController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomerMasterController.cs",
+              "ToolTip": "D:\\full stack Application core\u002Bangular\u002Bsql\\API\\MyShopAPI\\MyshopApi\\Controllers\\CustomerMasterController.cs",
+              "RelativeToolTip": "Controllers\\CustomerMasterController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBkAAABfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T13:23:20.639Z",
+              "WhenOpened": "2026-03-12T18:09:41.344Z",
               "EditorCaption": ""
             }
           ]

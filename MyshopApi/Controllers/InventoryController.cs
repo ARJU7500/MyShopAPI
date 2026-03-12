@@ -28,9 +28,9 @@ namespace MyShopApi.Controllers
                 };
             SqlCommand command = new SqlCommand
             {
-                CommandText= "SP_INSERT_INVENTORY_DATA",
-                CommandType= CommandType.StoredProcedure,
-                Connection= connection
+                CommandText = "SP_INSERT_INVENTORY_DATA",
+                CommandType = CommandType.StoredProcedure,
+                Connection = connection
             };
             command.Parameters.AddWithValue("@p_PRODUCT_CODE", inventoryDto.ProductCode);
             command.Parameters.AddWithValue("@p_PRODUCT_NAME", inventoryDto.ProductName);
