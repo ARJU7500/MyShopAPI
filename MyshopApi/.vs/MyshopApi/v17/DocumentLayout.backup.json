@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{7BCFAE7E-5D00-40B6-9FB0-A19571E5B437}|MyshopApi.csproj|solutionrelative:controllers\\customermastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BCFAE7E-5D00-40B6-9FB0-A19571E5B437}|MyshopApi.csproj|d:\\full stack application core\u002Bangular\u002Bsql\\api\\myshopapi\\myshopapi\\models\\customermasterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BCFAE7E-5D00-40B6-9FB0-A19571E5B437}|MyshopApi.csproj|solutionrelative:models\\customermasterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7BCFAE7E-5D00-40B6-9FB0-A19571E5B437}|MyshopApi.csproj|d:\\full stack application core\u002Bangular\u002Bsql\\api\\myshopapi\\myshopapi\\models\\customermaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7BCFAE7E-5D00-40B6-9FB0-A19571E5B437}|MyshopApi.csproj|solutionrelative:models\\customermaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCFAE7E-5D00-40B6-9FB0-A19571E5B437}|MyshopApi.csproj|d:\\full stack application core\u002Bangular\u002Bsql\\api\\myshopapi\\myshopapi\\models\\customermasterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BCFAE7E-5D00-40B6-9FB0-A19571E5B437}|MyshopApi.csproj|solutionrelative:models\\customermasterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,34 +22,38 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "CustomerMaster.cs",
               "DocumentMoniker": "D:\\full stack Application core\u002Bangular\u002Bsql\\API\\MyShopAPI\\MyshopApi\\Models\\CustomerMaster.cs",
               "RelativeDocumentMoniker": "Models\\CustomerMaster.cs",
               "ToolTip": "D:\\full stack Application core\u002Bangular\u002Bsql\\API\\MyShopAPI\\MyshopApi\\Models\\CustomerMaster.cs",
               "RelativeToolTip": "Models\\CustomerMaster.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAA5wAgAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-12T18:11:15.786Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "CustomerMasterDto.cs",
               "DocumentMoniker": "D:\\full stack Application core\u002Bangular\u002Bsql\\API\\MyShopAPI\\MyshopApi\\Models\\CustomerMasterDto.cs",
               "RelativeDocumentMoniker": "Models\\CustomerMasterDto.cs",
               "ToolTip": "D:\\full stack Application core\u002Bangular\u002Bsql\\API\\MyShopAPI\\MyshopApi\\Models\\CustomerMasterDto.cs",
               "RelativeToolTip": "Models\\CustomerMasterDto.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAA5wAYAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-12T18:10:51.195Z",
               "EditorCaption": ""
@@ -62,7 +66,7 @@
               "RelativeDocumentMoniker": "Controllers\\CustomerMasterController.cs",
               "ToolTip": "D:\\full stack Application core\u002Bangular\u002Bsql\\API\\MyShopAPI\\MyshopApi\\Controllers\\CustomerMasterController.cs",
               "RelativeToolTip": "Controllers\\CustomerMasterController.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBkAAABfAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAuwC0AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-12T18:09:41.344Z",
               "EditorCaption": ""

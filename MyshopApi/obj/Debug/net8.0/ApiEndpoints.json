@@ -16,6 +16,32 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "MyshopApi.Controllers.CustomerMasterController",
+    "Method": "UpdateCustomerMasterData",
+    "RelativePath": "api/CustomerMaster",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "customerMasterDto",
+        "Type": "MyshopApi.Models.CustomerMaster",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MyshopApi.Controllers.CustomerMasterController",
+    "Method": "GetAllCustomerMasterData",
+    "RelativePath": "api/CustomerMaster",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "MyShopApi.Controllers.InventoryController",
     "Method": "SaveInventryData",
     "RelativePath": "api/Inventory",
