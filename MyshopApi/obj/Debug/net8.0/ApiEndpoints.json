@@ -42,6 +42,22 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "MyshopApi.Controllers.CustomerMasterController",
+    "Method": "DeleteCustomerData",
+    "RelativePath": "api/CustomerMaster",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "customerId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "MyShopApi.Controllers.InventoryController",
     "Method": "SaveInventryData",
     "RelativePath": "api/Inventory",

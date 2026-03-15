@@ -95,5 +95,23 @@ namespace MyshopApi.Controllers
             connection.Close();
             return Ok(JsonConvert.SerializeObject(respose));
         }
+        [HttpDelete]
+        public ActionResult DeleteCustomerData(int customerId)
+        {
+            SqlConnection connection = new SqlConnection
+            {
+                ConnectionString = "Server=ARJUNEGI;Database=MYSHOP;Trusted_Connection=True;TrustServerCertificate=True"            };
+            SqlCommand command = new SqlCommand
+            {
+                CommandText = "SP_DELETE_CUSTOMER_MASTER_DATA",
+                CommandType = CommandType.StoredProcedure,
+                Connection = connection,
+            };
+            connection.Open();
+            command.Parameters.AddWithValue("@p_CUSTOMER_ID", customerId);
+            command.ExecuteNonQuery();
+            connection.Close();
+            return Ok();
+        }
     }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\full stack Application core+angular+sql\\API\\MyShopAPI\\MyshopApi\\MyshopApi.csproj": {}
+    "D:\\full stack Application core+angular+sql\\API\\MyShopAPI\\MyShopApi\\MyshopApi.csproj": {}
   },
   "projects": {
-    "D:\\full stack Application core+angular+sql\\API\\MyShopAPI\\MyshopApi\\MyshopApi.csproj": {
+    "D:\\full stack Application core+angular+sql\\API\\MyShopAPI\\MyShopApi\\MyshopApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\full stack Application core+angular+sql\\API\\MyShopAPI\\MyshopApi\\MyshopApi.csproj",
+        "projectUniqueName": "D:\\full stack Application core+angular+sql\\API\\MyShopAPI\\MyShopApi\\MyshopApi.csproj",
         "projectName": "MyshopApi",
-        "projectPath": "D:\\full stack Application core+angular+sql\\API\\MyShopAPI\\MyshopApi\\MyshopApi.csproj",
+        "projectPath": "D:\\full stack Application core+angular+sql\\API\\MyShopAPI\\MyShopApi\\MyshopApi.csproj",
         "packagesPath": "C:\\Users\\an096\\.nuget\\packages\\",
-        "outputPath": "D:\\full stack Application core+angular+sql\\API\\MyShopAPI\\MyshopApi\\obj\\",
+        "outputPath": "D:\\full stack Application core+angular+sql\\API\\MyShopAPI\\MyShopApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
